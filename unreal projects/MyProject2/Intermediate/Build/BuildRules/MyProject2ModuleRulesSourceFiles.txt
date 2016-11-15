@@ -1,0 +1,3 @@
+/Users/jflame/Bursary project/unreal projects/MyProject2/Source/MyProject2/MyProject2.Build.cs
+/Users/jflame/Bursary project/unreal projects/MyProject2/Source/MyProject2.Target.cs
+/Users/jflame/Bursary project/unreal projects/MyProject2/Source/MyProject2Editor.Target.cs
